@@ -49,17 +49,4 @@ Mobile App Developer (Flutter) | Java Web Developer
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimesha1234455&show_icons=true&theme=radical" alt="Nimesha's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimesha1234455&theme=radical" alt="Nimesha's streak stats" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimesha1234455&layout=compact&theme=radical" alt="Top languages" height="165"/>
-</p>
-
----
-
 ⭐️ *"Turning ideas into apps, one widget at a time."*
