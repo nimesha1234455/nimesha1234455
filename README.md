@@ -4,6 +4,8 @@
 
 I build cross-platform mobile applications with **Flutter**, powered by **Firebase** (Auth, Firestore, Cloud Functions, FCM) — from UI to backend logic.
 
+🔗 LinkedIn: [https://www.linkedin.com/in/nimesha-madushani-bb5263371](https://www.linkedin.com/in/nimesha-madushani-bb5263371)
+
 ---
 
 ### 🚀 What I Work With
